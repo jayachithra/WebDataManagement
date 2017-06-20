@@ -1,0 +1,9 @@
+CREATE TABLE tbl_movies_by_word (word text, id int, title text, year int, number int, type text, location text, language text, actors_id list<int>, actors_name list<text>, PRIMARY KEY (word,id));
+
+
+CREATE TABLE tbl_movies_by_id (id int PRIMARY KEY, title text, year int, number int, type text, location text, language text, actors_id list<int>, actors_name list<text>);
+
+CREATE TABLE tbl_actors_by_name (name text, id int, fname text, lname text, number int, mname text, gender text, aka list<text>, movies_id list<int>, movies_title list<text>, PRIMARY KEY (name,id));
+CREATE TABLE tbl_actors_by_id (id int, fname text, lname text, number int, mname text, gender text, aka list<text>, movies_id list<int>, movies_title list<text>, PRIMARY KEY (id));
+
+CREATE TABLE tbl_genres_by_name_and_year (genre text, year int, movies_id list<int>, movies_title list<text>, PRIMARY KEY (genre,year));
