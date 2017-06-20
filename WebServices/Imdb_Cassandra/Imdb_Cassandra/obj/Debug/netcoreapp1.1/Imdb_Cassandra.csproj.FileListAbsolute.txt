@@ -1,0 +1,14 @@
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_Cassandra.deps.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_Cassandra.runtimeconfig.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_Cassandra.runtimeconfig.dev.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_Cassandra.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\obj\Debug\netcoreapp1.1\Imdb_Cassandra.AssemblyInfo.cs
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\bin\Debug\netcoreapp1.1\Imdb_Cassandra.deps.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\bin\Debug\netcoreapp1.1\Imdb_Cassandra.runtimeconfig.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\bin\Debug\netcoreapp1.1\Imdb_Cassandra.runtimeconfig.dev.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\bin\Debug\netcoreapp1.1\Imdb_Cassandra.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\obj\Debug\netcoreapp1.1\Imdb_Cassandra.AssemblyInfo.cs
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\bin\Debug\netcoreapp1.1\Imdb_Cassandra.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\obj\Debug\netcoreapp1.1\Imdb_Cassandra.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\obj\Debug\netcoreapp1.1\Imdb_Cassandra.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_Cassandra\Imdb_Cassandra\obj\Debug\netcoreapp1.1\Imdb_Cassandra.csprojResolveAssemblyReference.cache

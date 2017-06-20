@@ -1,0 +1,12 @@
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\ImdbTests.deps.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\ImdbTests.runtimeconfig.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\ImdbTests.runtimeconfig.dev.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\ImdbTests.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\bin\Debug\netcoreapp1.1\ImdbTests.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\obj\Debug\netcoreapp1.1\ImdbTests.csprojResolveAssemblyReference.cache
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\obj\Debug\netcoreapp1.1\ImdbTests.AssemblyInfo.cs
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\obj\Debug\netcoreapp1.1\ImdbTests.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\UnitTestProject1\obj\Debug\netcoreapp1.1\ImdbTests.pdb

@@ -1,0 +1,9 @@
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_CouchDB.deps.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_CouchDB.runtimeconfig.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_CouchDB.runtimeconfig.dev.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_CouchDB.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\bin\Debug\netcoreapp1.1\Imdb_CouchDB.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\obj\Debug\netcoreapp1.1\Imdb_CouchDB.AssemblyInfo.cs
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\obj\Debug\netcoreapp1.1\Imdb_CouchDB.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\obj\Debug\netcoreapp1.1\Imdb_CouchDB.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imdb_CouchDB\Imdb_CouchDB\obj\Debug\netcoreapp1.1\Imdb_CouchDB.csprojResolveAssemblyReference.cache

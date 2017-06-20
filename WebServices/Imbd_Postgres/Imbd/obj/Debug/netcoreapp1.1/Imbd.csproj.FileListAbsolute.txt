@@ -1,0 +1,9 @@
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\bin\Debug\netcoreapp1.1\Imbd.deps.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\bin\Debug\netcoreapp1.1\Imbd.runtimeconfig.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\bin\Debug\netcoreapp1.1\Imbd.runtimeconfig.dev.json
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\bin\Debug\netcoreapp1.1\Imbd.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\bin\Debug\netcoreapp1.1\Imbd.pdb
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\obj\Debug\netcoreapp1.1\Imbd.csprojResolveAssemblyReference.cache
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\obj\Debug\netcoreapp1.1\Imbd.AssemblyInfo.cs
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\obj\Debug\netcoreapp1.1\Imbd.dll
+C:\Users\Apourva\Documents\Q4\WebDataManagement\Assignment\Imbd\Imbd\obj\Debug\netcoreapp1.1\Imbd.pdb
